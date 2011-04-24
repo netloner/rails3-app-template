@@ -1,12 +1,11 @@
 source 'http://rubygems.org'
 
-gem 'rails', '3.0.6'
+gem 'rails', '3.0.7'
 
 # Bundle edge Rails instead:
 # gem 'rails', :git => 'git://github.com/rails/rails.git'
 
 gem 'mysql2'
-# gem 'sqlite3-ruby', :require => 'sqlite3'
 # gem 'moneta'
 
 gem 'yajl-ruby', :require => 'yajl'
